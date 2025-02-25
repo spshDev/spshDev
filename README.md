@@ -1,4 +1,1 @@
-- 👋 Hi, I’m @spshDev
-- 👀 I’m interested in Game Development
-- 🌱 I’m currently messing around in GODOT and making games
-- 😄 Pronouns: He/Him
+I make stuffs
